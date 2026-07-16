@@ -63,7 +63,6 @@ export default function ArtPage({ params }: ArtPageProps) {
         <div className="md:col-span-2 flex flex-col">
           <div className="flex-grow">
             <h1 className="text-4xl lg:text-5xl font-bold font-headline text-primary">{painting.name}</h1>
-            <p className="mt-2 text-xl text-muted-foreground font-medium">{painting.artist}</p>
             <p className="mt-1 text-sm text-muted-foreground">({painting.year})</p>
             
             <DecorativeLine className="my-6 text-accent" />

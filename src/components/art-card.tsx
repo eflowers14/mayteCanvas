@@ -24,9 +24,6 @@ export function ArtCard({ painting }: ArtCardProps) {
         <CardContent className="flex-grow p-4">
           <CardTitle className="text-lg font-headline leading-tight">{painting.name}</CardTitle>
         </CardContent>
-        <CardFooter className="p-4 pt-0">
-          <p className="text-sm text-muted-foreground">{painting.artist}</p>
-        </CardFooter>
       </Card>
     </Link>
   );

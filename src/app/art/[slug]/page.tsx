@@ -70,7 +70,7 @@ export default function ArtPage({ params }: ArtPageProps) {
             <p className="text-lg leading-relaxed">{painting.description}</p>
             
             <p className="mt-8 text-3xl font-headline text-accent font-bold">
-              {formatter.format(painting.price)}
+              {formatter.format(painting.contact)}
             </p>
           </div>
 

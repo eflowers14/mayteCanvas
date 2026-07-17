@@ -17,4 +17,9 @@ export const paintings: Painting[] = [
   { id: '5', slug: 'guardian-de-lana', name: 'HASHOTO', year: 2022, description: 'Una llama solitaria se recorta contra el paisaje montañoso, simbolizando la resistencia y la conexión con la tierra.', contact: +593-99-974-8958, imageUrl: '/media/hashoto.jpg', imageHint: 'llama landscape' },
   { id: '6', slug: 'tejido-cosmico', name: 'HITACHEPTO', year: 2023, description: 'Inspirado en los patrones textiles de la cultura Cañari, esta pieza explora la dualidad y el equilibrio del universo.', contact: +593-99-974-8958, imageUrl: '/media/hitachepto.jpg', imageHint: 'textile pattern' },
   { id: '7', slug: 'danza-del-inti-raymi', name: 'HONOJAPTATOTI', year: 2019, description: 'Pintura dinámica que celebra la Fiesta del Sol, llena de movimiento y fervor comunitario.', contact: +593-99-974-8958, imageUrl: '/media/honojaptatoti.jpg', imageHint: 'ceremonial dance' },
+  { id: '8', slug: 'hal', name: 'HAL', year: 2025, description: 'Tiempo', contact: +593-99-974-8958, imageUrl: '/media/hal.jpg', imageHint: 'time' },
+  { id: '9', slug: 'halapo', name: 'HALAPO', year: 2026, description: 'Estrella', contact: +593-99-974-8958, imageUrl: '/media/halapo.jpg', imageHint: 'estrella' },
+  { id: '10', slug: 'hanayita', name: 'HANAJITA', year: 2023, description: 'Entrada a la cuarta dimensión', contact: +593-99-974-8958, imageUrl: '/media/hanajita.jpg', imageHint: 'Entrada a la cuarta dimensión.' },
+  { id: '11', slug: 'hapito', name: 'HAPITO', year: 2026, description: 'Sistema de Electricidad.', contact: +593-99-974-8958, imageUrl: '/media/hapito.jpg', imageHint: 'sistema de electricidad' },
+  { id: '12', slug: 'hilanc', name: 'HILANC', year: 2024, description: 'Camino.', contact: +593-99-974-8958, imageUrl: '/media/hilanc.jpg', imageHint: 'path' },
 ];

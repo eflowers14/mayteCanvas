@@ -21,5 +21,8 @@ export const paintings: Painting[] = [
   { id: '9', slug: 'halapo', name: 'HALAPO', year: 2026, description: 'Estrella', contact: "+593-99-974-8958", imageUrl: '/media/halapo.jpg', imageHint: 'estrella' },
   { id: '10', slug: 'hanayita', name: 'HANAJITA', year: 2023, description: 'Entrada a la cuarta dimensión', contact: "+593-99-974-8958", imageUrl: '/media/hanajita.jpg', imageHint: 'Entrada a la cuarta dimensión.' },
   { id: '11', slug: 'hapito', name: 'HAPITO', year: 2026, description: 'Sistema de Electricidad.', contact: "+593-99-974-8958", imageUrl: '/media/hapito.jpg', imageHint: 'sistema de electricidad' },
-  { id: '12', slug: 'hilanc', name: 'HILANC', year: 2024, description: 'Camino', contact: "+593-99-974-8958", imageUrl: '/media/hilanc.jpg', imageHint: 'path' }
+  { id: '13', slug: 'hayidu', name: 'HAYIDU', year: 2024, description: 'Luz en el Firmamento', contact: "+593-99-974-8958", imageUrl: '/media/hayidu.jpg', imageHint: 'light in the firmamento' },
+  { id: '14', slug: 'pilocho', name: 'PILOCHO', year: 2025, description: 'Entrada de agua al sistema', contact: "+593-99-974-8958", imageUrl: '/media/pilocho.jpg', imageHint: 'entrance of water into the sistem' },
+  { id: '15', slug: 'plascabi', name: 'PLASCABI', year: 2026, description: 'Dragon Amarillo', contact: "+593-99-974-8958", imageUrl: '/media/plascabi.jpg', imageHint: 'yellow dragon' },
+  { id: '16', slug: 'ploscobi', name: 'PLOSCOBI', year: 2024, description: 'Dragon Azul', contact: "+593-99-974-8958", imageUrl: '/media/ploscobi.jpg', imageHint: 'blue dragon' },
 ];

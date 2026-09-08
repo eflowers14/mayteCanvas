@@ -25,4 +25,6 @@ export const paintings: Painting[] = [
   { id: '14', slug: 'pilocho', name: 'PILOCHO', year: 2025, description: 'Entrada de agua al sistema', contact: "+593-99-974-8958", imageUrl: '/media/pilocho.jpg', imageHint: 'entrance of water into the sistem' },
   { id: '15', slug: 'plascabi', name: 'PLASCABI', year: 2026, description: 'Dragon Amarillo', contact: "+593-99-974-8958", imageUrl: '/media/plascabi.jpg', imageHint: 'yellow dragon' },
   { id: '16', slug: 'ploscobi', name: 'PLOSCOBI', year: 2024, description: 'Dragon Azul', contact: "+593-99-974-8958", imageUrl: '/media/ploscobi.jpg', imageHint: 'blue dragon' },
+  { id: '17', slug: 'pequeñosdragones', name: 'PEQUEÑOS DRAGONES', year: 2026, description: 'Pequeños Dragones', contact: "+593-99-974-8958", imageUrl: '/media/pequeñosdragones.jpg', imageHint: 'pequeños dragones' },
+  { id: '18', slug: 'dragonnegro', name: 'DRAGÓN NEGRO', year: 2026, description: 'Dragón Negro', contact: "+593-99-974-8958", imageUrl: '/media/dragonnegro.jpg', imageHint: 'black dragon' },
 ];
